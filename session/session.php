@@ -9,7 +9,7 @@ $_SESSION["thing"]=&$_POST["sessions"];//将POST中的变量赋值给SESSION变�
 </head>
 
 <body>
-	<h3>本测试地址由WPBKJ博客原创，本测试介绍地址：<a href="https://www.wpbkj.com/achives/phpsession.html">https://www.wpbkj.com/achives/phpsession.html</a></h3>
+	<h3>本测试地址由WPBKJ博客原创，本测试介绍地址：<a href="https://www.wpbkj.com/archives/phpsession.html">https://www.wpbkj.com/archives/phpsession.html</a></h3>
 <form method="post" action=""><!--设置POST-->
 	<input type="text" name="sessions"/>
 	<input type="submit" value="存储session"/>
